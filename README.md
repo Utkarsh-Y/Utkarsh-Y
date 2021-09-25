@@ -1,29 +1,83 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Utkarsh Yadav</h1>
-<h3 align="center">A boy trying to Figure-Out Stuff!!</h3>
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Utkarsh Yadav]()
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Utkarsh-Y&label=Profile%20views&color=129e00&style=plastic" alt="Utkarsh-Y" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<!--![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover2.png) -->
 
-- 👨‍💻 You can also check out my portfolio at [https://utkarsh.github.io/]()
 
-- 📫 How to reach me **yadav.utkarsh2498@gmail.com**
+### My Tech Toolbox 🧰 
 
-- ⚡ Fun fact **I think I am funny XD**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Utkarsh11925887" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Utkarsh11925887" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/utkarsh24/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="utkarsh24" height="30" width="40" /></a>
-<a href="https://instagram.com/_utkrsh._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_utkrsh._" height="30" width="40" /></a>
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
+<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
 
-<!--<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
--->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Utkarsh-Y&show_icons=true&locale=en&layout=compact" alt="Utkarsh-Y" /></p>
+ 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Y&show_icons=true&locale=en" alt="Utkarsh-Y" /></p>
+* My primary coding language: Java
+* Earned Gold badge & 5 star at HackerRank in Python programming.
+* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://ayushirawat.com/) & make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
+* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
+* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi).
+<!--* 🏠 Hogwarts House: Griffindor-->
+<!--* If you play Call of Duty- add me: Blackhood@00-->
+<!--* I am currently learning Docker-->
+<!--* I’m currently working on my portfolio. -->
+<!-- * Ask me about anything, I'll be happy to help.-->
+<!-- -->
+<!--* I'm looking to collaborate on Open source project for Hacktoberfest-->
+
+---
+
+<table><tr><td valign="top" width="50%">
+
+### My Latest Blog Posts 🌱
+<!-- BLOG-POST-LIST:START -->
+- [12 Python Tips & Tricks You must know](https://ayushirawat.com/12-python-tips-and-tricks-you-must-know)
+- [HTTP Status Codes that You must know](https://ayushirawat.com/http-status-codes-that-you-must-know)
+- [GitHub Copilot: All you need to know](https://ayushirawat.com/github-copilot-all-you-need-to-know)
+- [What is an API? API-101](https://ayushirawat.com/what-is-an-api-api-101)
+- [Build a Break Scheduler using Python](https://ayushirawat.com/build-a-break-scheduler-using-python)
+<!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://ayushirawat.com/)
+</td>
+<td valign="top" width="50%">
+
+### My Latest YouTube Videos 🌱
+<!-- YOUTUBE:START -->
+- [GitHub Copilot: All you need to know ](https://www.youtube.com/watch?v=RZmp6IPN0xw)
+- [What is an API ? API for beginners ](https://www.youtube.com/watch?v=NHVQiDDZ5TA)
+- [71A Way too long words ](https://www.youtube.com/watch?v=hYIzUt9mvRQ)
+- [How to build a Break Scheduler using Python ](https://www.youtube.com/watch?v=qF8QG7Fr1Vk)
+- [#4 How to make Git Commit with a Past Date ](https://www.youtube.com/watch?v=cSwgkUHk_Qo)
+<!-- YOUTUBE:END -->
+➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
+</td>
+
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Y&show_icons=true&theme=gotham" alt="Utkarsh | Stats" />
+
+</details>
 
 
+ ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
 
 
+[twitter]: https://twitter.com/Utkarsh11925887
+[youtube]: https://youtube.com/ayushirawat
+[Hashnode]: https://ayushirawat.com
+[gmail]: https://gmail.com
+[linkedin]: https://www.linkedin.com/in/utkarsh24/
+[Medium]: https://medium.com/@ayushi7rawat
+[Facebook]: https://www.facebook.com/ayushi7rawat
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
