@@ -58,11 +58,9 @@
 
 
 [twitter]: https://twitter.com/utkrsh24
-[youtube]: https://youtube.com/ayushirawat
-[Dev]: https://ayushirawat.com
-[gmail]: https://gmail.com
+[Dev]: https://dev.to/utkrsh
+[Gmail]: yadav.utkarsh2498@gmail.com
 [linkedin]: https://www.linkedin.com/in/utkarsh24/
-[Medium]: https://medium.com/@ayushi7rawat
-[Facebook]: https://www.facebook.com/ayushi7rawat
+[Medium]: https://medium.com/@yadav.utkarsh2498
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
