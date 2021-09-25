@@ -69,7 +69,7 @@
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{Utkarsh-Y}/count.svg)
 
 
 [twitter]: https://twitter.com/Utkarsh11925887
