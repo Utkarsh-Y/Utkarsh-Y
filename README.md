@@ -25,20 +25,23 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
  <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="javascript" height="40"/> 
  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" height="40"/>
+  <img src="https://symbols.getvecta.com/stencil_96/68_spring-framework.c46ab15b10.svg" alt="spring" height="40"/>
+ <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="mongodb" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
  <img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699166-icon-89-document-file-sql-512.png" alt="sql" width="40" height="40"/> 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" alt="mongodb" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png" alt="redis" width="40" height="40"/>
+ <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/amazon_aws_logo_icon_170593.png" alt="aws" width="40" height="40"/>
+ <img src="https://symbols.getvecta.com/stencil_94/4_rabbitmq-icon.ebf2e8b0c3.svg" alt="rabbitmq" width="40" height="40"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
+ <img src="https://symbols.getvecta.com/stencil_74/18_apache-maven-icon.2a3ad94f03.svg" alt="maven" width="40" height="40"/>
 
 </p>
 
  
 
-* My primary coding language: Java
-* Earned Gold badge & 5 star at HackerRank in Python programming.
-* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://ayushirawat.com/) & make educational [YouTube Videos](https://www.youtube.com/c/AyushiRawat).
-* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
-* Join my [Discord server](https://discord.gg/Qet6kMd) | [Telegram Channel](https://t.me/rawatayushi).
+* Passionate for learning & exploring new Tech. I also write Tech Blogs to spread knowledge about new technologies.
+* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who have just started their programming journey.
+* Join my [Telegram Channel](https://t.me/joinchat/5I3UIB5yXjViNDJI) in case you are looking for off campus opportunities at big tech giants and poduct based start-ups.
 
 
 ---
