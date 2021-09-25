@@ -57,9 +57,9 @@
  ![Visitor Count](https://profile-counter.glitch.me/{Utkarsh-Y}/count.svg)
 
 
-[twitter]: https://twitter.com/utkrsh24
+[twitter]: https://twitter.com/_utkrsh24
 [Dev]: https://dev.to/utkrsh
-[Gmail]: yadav.utkarsh2498@gmail.com
+[Gmail]: mailto:yadav.utkarsh2498@gmail.com
 [linkedin]: https://www.linkedin.com/in/utkarsh24/
 [Medium]: https://medium.com/@yadav.utkarsh2498
 
