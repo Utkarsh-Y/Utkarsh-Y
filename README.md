@@ -3,8 +3,7 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 
-<!--![alt text](https://github.com/ayushi7rawat/ayushi7rawat/blob/master/cover2.png) -->
-
+![alt text](https://github.com/Utkarsh-Y/Utkarsh-Y/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 
 ### My Tech Toolbox 🧰 
 
