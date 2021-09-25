@@ -1,5 +1,5 @@
 # [Hi!! there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Utkarsh]()
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7186C&lines=Want+to+connect;visit+any+of+these+👇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7186C&lines=Let's+connect;visit+any+of+these+👇)](https://git.io/typing-svg)
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -20,13 +20,16 @@
 
 <p align="left">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="40" height="40"/> 
+ <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Golang" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
-<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
+ <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="javascript" height="40"/> 
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+ <img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699166-icon-89-document-file-sql-512.png" alt="sql" width="40" height="40"/> 
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" alt="mongodb" width="40" height="40"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
-<img src="https://en.wikipedia.org/wiki/Go_(programming_language)#/media/File:Go_Logo_Blue.svg" alt="Golang" width="40" height="40"/>
+
 </p>
 
  
@@ -47,14 +50,17 @@
 - Second Runner’s Up at TiE Young Entrepreneur program organised by IIT Kanpur and IIM Lucknow (Team Lead).
 
  <details>
-<summary>📊 Page Visitors </summary>
+<summary>📊 Github Stats </summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Y&show_icons=true&theme=gotham" alt="Utkarsh | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=utkrsh24&show_icons=true&theme=gotham" alt="Utkarsh | Stats" />
 
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{Utkarsh-Y}/count.svg)
+
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=utkrsh24.utkrsh24)
 
 
 [twitter]: https://twitter.com/_utkrsh24
