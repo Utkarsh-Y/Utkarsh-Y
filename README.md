@@ -41,7 +41,7 @@
 
 * Passionate for learning & exploring new Tech. I also write Tech Blogs to spread knowledge about new technologies.
 * I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who have just started their programming journey.
-* Join my [Telegram Channel](https://t.me/joinchat/5I3UIB5yXjViNDJI) in case you are looking for off campus opportunities at big tech giants and poduct based start-ups.
+* Join my [Telegram Channel](https://t.me/joinchat/5I3UIB5yXjViNDJI) in case you are looking for off campus opportunities at big tech giants and product based start-ups.
 
 
 ---
